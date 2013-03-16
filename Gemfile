@@ -2,4 +2,6 @@
 source "https://rubygems.org"
 
 gem 'grit'
+
 gem 'rspec'
+gem 'debugger'
